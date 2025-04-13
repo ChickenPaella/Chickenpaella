@@ -10,8 +10,9 @@
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m building a few toy projects to practice.
 - 📫 How to reach me:
-  - [Twitter - @Paella](https://x.com/circular_bear)
   - [LinkedIn - Heebeck Lee](https://www.linkedin.com/in/heebeck-lee-1b83a0185/)
+  - [Blog](https://chickenpaella.github.io/)
+  - [Twitter - @Paella](https://x.com/circular_bear)
 
 
 <!-- 3. 好きな技術スタックに変更 -->
