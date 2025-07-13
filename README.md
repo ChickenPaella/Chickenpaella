@@ -11,8 +11,8 @@
 - 🌱 I’m building a few toy projects to practice.
 - 📫 How to reach me:
   - [LinkedIn - Heebeck Lee](https://www.linkedin.com/in/heebeck-lee-1b83a0185/)
-  - [Blog](https://chickenpaella.github.io/)
   - [Twitter - @Paella](https://x.com/circular_bear)
+  - Blog - Now loading...
 
 
 <!-- 3. 好きな技術スタックに変更 -->
